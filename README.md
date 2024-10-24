@@ -59,3 +59,35 @@ Use PyCharm or another preferred IDE to open the project directory. Run the main
 Database Setup:
 
 Ensure that the SQLite database is correctly set up. The necessary database tables will be created upon the first run if they don't already exist. Make sure to adjust the database settings in the db.py file if necessary.
+
+
+### System Requirements
+
+| Component            | Version/Details                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **IDE**              | PyCharm 2023 or later (Recommended for better organization, linting, and debugging) |
+| **Python Version**   | 3.12                                                                            |
+| **Installed Packages** |                                                                               |
+| `Django`             | 5.1.1                                                                           |
+| `asgiref`            | 3.8.1                                                                           |
+| `contourpy`          | 1.3.0                                                                           |
+| `cycler`             | 0.12.1                                                                          |
+| `fonttools`          | 4.54.1                                                                          |
+| `image`              | 1.5.33                                                                          |
+| `imagetk`            | 0.1.2                                                                           |
+| `kiwisolver`         | 1.4.7                                                                           |
+| `matplotlib`         | 3.9.2                                                                           |
+| `numpy`              | 2.11.1                                                                          |
+| `packaging`          | 24.1                                                                            |
+| `pandas`             | 2.2.2                                                                           |
+| `pillow`             | 10.4.0                                                                          |
+| `pip`                | 23.2.1                                                                          |
+| `pyparsing`          | 3.1.4                                                                           |
+| `python-dateutil`    | 2.9.0.post0                                                                     |
+| `pytz`               | 2024.1                                                                          |
+| `scipy`              | 1.14.1                                                                          |
+| `six`                | 1.16.0                                                                          |
+| `sqlparse`           | 0.5.1                                                                           |
+| `tzdata`             | 2024.1                                                                          |
+
+
