@@ -76,7 +76,6 @@ Ensure that the SQLite database is correctly set up. The necessary database tabl
 | `image`              | 1.5.33                                                                          |
 | `imagetk`            | 0.1.2                                                                           |
 | `kiwisolver`         | 1.4.7                                                                           |
-| `matplotlib`         | 3.9.2                                                                           |
 | `numpy`              | 2.11.1                                                                          |
 | `packaging`          | 24.1                                                                            |
 | `pandas`             | 2.2.2                                                                           |
