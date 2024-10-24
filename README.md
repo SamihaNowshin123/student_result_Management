@@ -24,7 +24,7 @@ The Student Result Management System is a Python-based application designed to h
 
 
 ## Screenshots
-
+<img src="ScreenshotFolder/Screenshot (270).png"
 
 
 
