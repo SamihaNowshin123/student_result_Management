@@ -89,4 +89,17 @@ Ensure that the SQLite database is correctly set up. The necessary database tabl
 | `sqlparse`           | 0.5.1                                                                           |
 | `tzdata`             | 2024.1                                                                          |
 
+## Optimizations
+
+1.Support for Multiple Courses per Student:
+
+Currently, each student can only register for one course at a time. In future updates, we aim to allow students to enroll in multiple courses.
+
+2.Teacher’s Dashboard for Viewing All Students in a Course:
+
+Teachers can only view individual students' results. Future improvements will introduce a dashboard feature that allows teachers to view and manage the entire list of students enrolled in a specific course, making class management more efficient.
+
+3.Cumulative CGPA Calculation:
+
+The system currently calculates individual subject grades. In an upcoming version, we aim to introduce a cumulative CGPA feature. 
 
