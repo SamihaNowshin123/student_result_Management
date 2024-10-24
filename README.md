@@ -30,3 +30,32 @@ The Student Result Management System is a Python-based application designed to h
 ![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(273).png)
 
 ![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/297fd69a0c9031eff5f48f4ce916ce3e76ee52fc/ScreenshotFolder/Screenshot%202024-10-25%20010100.png)
+
+
+## Installation
+
+Install Python 3.12:
+
+Ensure you have Python 3.12 installed. If not, download and install it from the official Python website.
+
+Clone the Repository:
+
+Clone the project repository using:
+
+```bash
+  git clone <repository-url>
+```
+
+
+Install the required packages using pip: 
+```bash
+  pip install -r requirements.txt
+```
+
+Run the Application:
+
+Use PyCharm or another preferred IDE to open the project directory. Run the main Python file (main.py) to launch the application.
+
+Database Setup:
+
+Ensure that the SQLite database is correctly set up. The necessary database tables will be created upon the first run if they don't already exist. Make sure to adjust the database settings in the db.py file if necessary.
