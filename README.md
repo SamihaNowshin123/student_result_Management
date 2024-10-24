@@ -25,6 +25,13 @@ The Student Result Management System is a Python-based application designed to h
 
 ## Screenshots
 ![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/3b47dac611fe87ca69ac6e7da1b0bc98542f8a2e/ScreenshotFolder/Screenshot%20(270).png)
+![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(271).png)
 
+![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(273).png)
 
+![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(277).png)
+
+![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(275).png)
+
+![image alt](https://github.com/SamihaNowshin123/student_result_Management/blob/de663e7fa36ae4c18d7e5097fe00435e81aae08e/ScreenshotFolder/Screenshot%20(276).png)
 
