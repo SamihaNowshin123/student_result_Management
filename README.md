@@ -5,7 +5,7 @@
 The Student Result Management System is a Python-based application designed to help institutions manage student results efficiently. The system supports functionalities such as adding new results, searching for specific student records, viewing detailed reports, and role-based permissions for teachers and students. The project is built using Python's Tkinter library for the GUI and SQLite for database management. Additionally, it uses various other libraries for calculations, data manipulation, and visualization.
 
 
-## Features
+## Key Features
 
 - Role-Based Access Control:
 
